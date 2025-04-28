@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">479</td>
+            <td align="center">480</td>
          </tr>
       </tbody>
    </table>
@@ -146,6 +146,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.apple.com/careers/us/">Apple</a> </li>
 <li><a href="https://appinventiv.com/career/">AppInventiv</a>   </li>
 <li><a href="https://www.appliedmaterials.com/us/en/careers.html">Applied Materials</a>   </li>
+<li><a href="https://apptechies.com/">Apptechies</a>   </li>
 <li><a href="https://jobs.aptiv.com/">Aptiv</a></li>
 <li><a href="https://www.aqr.com/About-Us/Careers">AQR</a>  </li>
 <li><a href="https://www.arcesium.com/careers.html">Arcesium</a>   </li>
